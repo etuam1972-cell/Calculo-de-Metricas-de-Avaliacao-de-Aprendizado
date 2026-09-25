@@ -1,0 +1,3 @@
+Requisitos
+Python 3.x
+Apenas biblioteca padrão (nenhuma dependência externa)
